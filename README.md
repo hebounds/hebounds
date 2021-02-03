@@ -18,7 +18,7 @@ Fun Fact -
   <i>Talk to me!</i>
 
   <p align="center">
-    <a href="https://www.instagram.com/hayesbounds/" alt="Instagram"><img src="https://github.com/garfieldowner/garfieldowner/blob/main/IMAGES/instagram-fill.svg"></a>
-    <a href="https://www.facebook.com/hayes.bounds/" alt="Facebook"><img src="https://github.com/garfieldowner/garfieldowner/blob/main/IMAGES/facebook-circle-fill.svg"></a>
-    <a href="mailto:ervinbounds@gmail.com" alt="Email me!"><img src="https://github.com/garfieldowner/garfieldowner/blob/main/IMAGES/mail-fill.svg"></a>
+    <a href="https://www.instagram.com/hayesbounds/" alt="Instagram"><img src="https://github.com/garfieldowner/garfieldowner/blob/main/IMAGES/instagram-line.svg"></a>
+    <a href="https://www.facebook.com/hayes.bounds/" alt="Facebook"><img src="https://github.com/garfieldowner/garfieldowner/blob/main/IMAGES/facebook-circle-line.svg"></a>
+    <a href="mailto:ervinbounds@gmail.com" alt="Email me!"><img src="https://github.com/garfieldowner/garfieldowner/blob/main/IMAGES/mail-line.svg"></a>
   </p>
