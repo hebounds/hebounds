@@ -22,3 +22,5 @@ Fun Fact -
     <a href="https://www.facebook.com/hayes.bounds/" alt="Facebook"><img src="https://github.com/garfieldowner/garfieldowner/blob/main/IMAGES/facebook-circle-line.svg"></a>
     <a href="mailto:ervinbounds@gmail.com" alt="Email me!"><img src="https://github.com/garfieldowner/garfieldowner/blob/main/IMAGES/mail-line.svg"></a>
   </p>
+
+<img src="https://github.com/garfieldowner/garfieldowner/blob/main/IMAGES/githubpagefooter.png" alt="Footer">
