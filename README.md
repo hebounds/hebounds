@@ -1,4 +1,4 @@
-<img src="https://github.com/garfieldowner/garfieldowner/blob/main/IMAGES/githubpage.svgz" alt="Header">
+<img src="https://github.com/garfieldowner/garfieldowner/blob/main/IMAGES/githubheader.png" alt="Header">
 
 Here are some ideas to get you started:
 
