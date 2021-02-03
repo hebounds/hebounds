@@ -1,4 +1,4 @@
-<img src="https://github.com/garfieldowner/garfieldowner/blob/main/IMAGES/githubheader.png" alt="Header">
+<img src="https://github.com/purplehayesb/purplehayesb/blob/main/IMAGES/githubheader.png" alt="Header">
 
 I like to work on Minecraft Plugins, data management applications, Google Suite scripts, as well as on projects for my club/program Programming in Practice (PIP)
 
