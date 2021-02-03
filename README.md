@@ -23,4 +23,4 @@ Fun Fact -
     <a href="mailto:ervinbounds@gmail.com" alt="Email me!"><img src="https://github.com/purplehayesb/purplehayesb/blob/main/IMAGES/mail-line.svg"></a>
   </p>
 
-<img src="https://github.com/purplehayesb/purplehayesb/blob/main/IMAGES/githubpagefooter.png" alt="Footer">
+<img src="https://github.com/purplehayesb/purplehayesb/blob/main/IMAGES/githubfooter.png" alt="Footer">
