@@ -1,14 +1,15 @@
 <img src="https://github.com/purplehayesb/purplehayesb/blob/main/IMAGES/githubheader.png" alt="Header">
 
-I like to work on Minecraft Plugins/Mods, data management applications, Google Suite scripts, as well as on projects for my club/program Programming in Practice (PIP)
+I like to work on data management applications, Google Suite scripts, Minecraft Plugins, as well as on projects for my club/program Programming in Practice (PIP)
 
 Languages - 
 
  - Java
  - Python
+ - JavaScript
+ - C++
  - HTML
  - CSS
- - JavaScript
  - C#
 
 Fun Fact - 
