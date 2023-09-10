@@ -9,6 +9,7 @@ Languages I've Worked With -
  - Python
  - JavaScript
  - C#
+ - R
 
 Fun Fact - 
 
