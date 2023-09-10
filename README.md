@@ -1,15 +1,13 @@
 <img src="https://github.com/purplehayesb/purplehayesb/blob/main/IMAGES/githubheader.png" alt="Header">
 
-I like to work on PCB design, 3D modeling, assorted web development activities, games, game plugins/mods, and more
+I'm a Freshman at Purdue University pursuing a degree in Computer Science and currently a minor in Film Studies. I am passionate about Graphic Design (specifically UI/UX), Game Design, Web Development, and AI/ML.
 
-Languages - 
+Languages I've Worked With - 
 
  - Java
  - C++
  - Python
  - JavaScript
- - HTML
- - CSS
  - C#
 
 Fun Fact - 
