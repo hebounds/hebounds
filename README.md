@@ -1,19 +1,15 @@
 <img src="https://github.com/purplehayesb/purplehayesb/blob/main/IMAGES/githubheader.png" alt="Header">
 
-I'm a Freshman at Purdue University pursuing a degree in Computer Science and currently a minor in Film Studies. I am passionate about Graphic Design (specifically UI/UX), Game Design, Web Development, and AI/ML.
+I'm a Sophomore at Purdue University pursuing a degree in Computer Science, and minors in Film Studies and Mathematics. I am passionate about AI/ML, CI/CD, Database Management, ETL/ELT Pipelining, Graphics and Visualization.
 
 Languages I've Worked With - 
 
  - Java
- - C++
+ - C/C++
  - Python
  - JavaScript
  - C#
  - R
-
-Fun Fact - 
-
- - Armadillo shells are bulletproof and so is my code 😎
 
 <p align="center">
   <i>Talk to me!</i>
