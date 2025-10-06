@@ -1,9 +1,6 @@
-<p>
+<p align="center">
   <i>CS @ Purdue</i>
   <i>SWE @ Stratolaunch</i>
-</p>
-
-<p align="center">
   <i>Contact Me</i>
 
   <p align="center">
